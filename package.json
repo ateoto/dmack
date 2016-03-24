@@ -15,7 +15,7 @@
     "ackerman"
   ],
   "author": "Dave Ackerman",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/dmackerman/dmack/issues"
   },
