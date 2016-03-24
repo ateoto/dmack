@@ -17,3 +17,9 @@ console.debug(troll_level) // Infinity
 
 ### License
 MIT
+
+### Roadmap
+- add tests
+- add e2e tests
+- add Angular and React, possibly Ember
+- make sure it works with Redux
