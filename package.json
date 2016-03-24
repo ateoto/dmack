@@ -1,0 +1,23 @@
+{
+  "name": "dmack",
+  "version": "1.0.0",
+  "description": "Add a personal touch of Dave Ackerman to your project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmackerman/dmack.git"
+  },
+  "keywords": [
+    "dave",
+    "ackerman"
+  ],
+  "author": "Dave Ackerman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmackerman/dmack/issues"
+  },
+  "homepage": "https://github.com/dmackerman/dmack#readme"
+}
